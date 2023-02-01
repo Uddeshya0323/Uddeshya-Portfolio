@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Uddeshya-Portfolio/static/css/main.64c93aba.css",
+    "main.js": "/Uddeshya-Portfolio/static/js/main.d0f3c7d7.js",
+    "static/media/navbar.jpg": "/Uddeshya-Portfolio/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
+    "static/media/leaveMangementSystem.jpg": "/Uddeshya-Portfolio/static/media/leaveMangementSystem.ac25ce1539296fa756a6.jpg",
+    "static/media/resume.pdf": "/Uddeshya-Portfolio/static/media/resume.970caa1d0472d438f947.pdf",
+    "static/media/glassesimoji.png": "/Uddeshya-Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/boy.png": "/Uddeshya-Portfolio/static/media/boy.40ddd7770517fba8fef0.png",
+    "static/media/cms.jpg": "/Uddeshya-Portfolio/static/media/cms.185749ffc9401837d41e.jpg",
+    "static/media/thumbup.png": "/Uddeshya-Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Uddeshya-Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Uddeshya-Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Uddeshya-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Uddeshya-Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Uddeshya-Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Uddeshya-Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Uddeshya-Portfolio/index.html",
+    "main.64c93aba.css.map": "/Uddeshya-Portfolio/static/css/main.64c93aba.css.map",
+    "main.d0f3c7d7.js.map": "/Uddeshya-Portfolio/static/js/main.d0f3c7d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c93aba.css",
+    "static/js/main.d0f3c7d7.js"
+  ]
+}
